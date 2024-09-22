@@ -13,9 +13,12 @@
             "scale": 0.34611280487804874,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 632.7416868531161,
+                "x": 213.80312706452327,
                 "y": 130.01541510680465
             }
+        },
+        "mapa.tmx#meusTiles": {
+            "scaleInDock": 1
         },
         "meusTiles.tsx": {
             "scaleInDock": 1,
