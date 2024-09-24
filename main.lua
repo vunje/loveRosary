@@ -1,6 +1,5 @@
 -- Sti= require("plugins.Simple-Tiled-Implementation.sti")
 
-local Cupid = require("plugins.cupid-git.cupid")
 
 local Gamera = require("plugins.gamera.gamera")
 local camera = Gamera.new(0,0,800,600) 
@@ -54,6 +53,7 @@ local visuals = {
 function love.load()
 
     -- fs=love.window.setFullscreen(true,"desktop")
+
 
     width, height = love.graphics.getDimensions()
     size = (width<height) and width or height
